@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6ac73a1d.css",
+    "main.js": "/static/js/main.c7e74f2b.js",
+    "static/js/787.7e6d10b6.chunk.js": "/static/js/787.7e6d10b6.chunk.js",
+    "static/media/lenti show.png": "/static/media/lenti show.77d4c42b469be54b1fd6.png",
+    "static/media/laptop kopier.png": "/static/media/laptop kopier.5534a79fa5418566f09c.png",
+    "static/media/gl media road map.svg": "/static/media/gl media road map.22f3b0f22878261e1405afc3f949b7bf.svg",
+    "static/media/Nichlas.jpg": "/static/media/Nichlas.5eebb28cbf05f4960268.jpg",
+    "static/media/chris.jpg": "/static/media/chris.6a4744673b288ebc6ae7.jpg",
+    "static/media/Erik.jpg": "/static/media/Erik.03d64bf1019a4bdce4d9.jpg",
+    "static/media/Grizzly Media Logo Hvid(1).png": "/static/media/Grizzly Media Logo Hvid(1).76a934b025df3c466544.png",
+    "static/media/Frederik.jpg": "/static/media/Frederik.cc88ae1186bf5c3878a7.jpg",
+    "static/media/bear standing at pc.svg": "/static/media/bear standing at pc.a1b6729558fdd43a653eda9a1a79294b.svg",
+    "static/media/bjørn globus.svg": "/static/media/bjørn globus.eca9bd26013993a440b92bf613eda4cf.svg",
+    "static/media/icons8-instagram(1).svg": "/static/media/icons8-instagram(1).35717d3c48715574a9a23d9452ef1eb8.svg",
+    "static/media/icons8-linkedin(1).svg": "/static/media/icons8-linkedin(1).eb60e671e4d605ec98fa4cbb0e182e86.svg",
+    "index.html": "/index.html",
+    "static/media/icons8-facebook(1).svg": "/static/media/icons8-facebook(1).c5ec442f6a8a413ee0c0944d293c8b9b.svg",
+    "main.6ac73a1d.css.map": "/static/css/main.6ac73a1d.css.map",
+    "main.c7e74f2b.js.map": "/static/js/main.c7e74f2b.js.map",
+    "787.7e6d10b6.chunk.js.map": "/static/js/787.7e6d10b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ac73a1d.css",
+    "static/js/main.c7e74f2b.js"
+  ]
+}
